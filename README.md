@@ -1,3 +1,3 @@
 # Narrators Guide
 
-Rules that don't concern the players, but should consern their characters.
+Rules that don't concern Players but should concern their Characters.
