@@ -21,4 +21,4 @@ jobs:
           KEY: ${{ secrets.SSHKEY }}
         with:
           source: "Narrators\ Guide.yml,Narrators\ Guide"
-          target: "/home/narrators-guide"
+          target: "/home/karst/narrators-guide"
