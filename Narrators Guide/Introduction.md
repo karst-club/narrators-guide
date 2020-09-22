@@ -1,6 +1,6 @@
 **Narrators Guide**
 
-* Intro
+* Introduction
 * Running Encounters & Combat
 * Tips for the Narrator
 * Treasure
